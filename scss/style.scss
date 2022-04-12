@@ -1554,81 +1554,12 @@ button{
   .services{
     margin-bottom: 100px;
   }
+  .faq__title{
+    h2{
+      padding-bottom: 100px;
+    }
+  }
 }
 
 
-.line{
-  // white-space-collapsing:discard
-  border-collapse: none;
-  font-size: 0;
-  content: '';
-  background-color: #000000;
-  height: 30px;
-  width: 100%;
-}
-// для слайдера якщо є флекси треба min-width: 0;
 
-  // .burger-menu{
-  //   display: none;
-  // }
-  // header{
-  //   position: fixed;
-  //   // overflow: hidden;
-  //   width: 100%;
-  //   top: 0;
-  //   left: 0;
-  //   // z-index: 50;
-    
-  // }
-  // .header{
-    
-  //   display: flex;
-  //   justify-content: space-between;
-  //   padding: 41px 10px 0px 10px ;
-    
-  //   .ul__list{
-  //     display: flex;
-  //     align-items: center;
-  //     .header__nav{
-  
-  //       display: flex;
-        
-  //       .nav__list{
-  //         padding-left: 40px;
-  //       }
-  //     }
-  //   }
-  // }
-  // .burger-menu__button{
-  //   z-index: 30;
-  
-    
-  // }
-  // .burger-menu__lines,
-  // .burger-menu__lines::after,
-  // .burger-menu__lines::before{
-  //     position: absolute;
-  //     width: 40px;
-  //     height: 6px;
-  //     background-color: #000;
-  
-  //   }
-  
-  // .burger-menu__lines::after{
-  //   top: -12px;
-  // }
-  // .burger-menu__lines::before{
-  //   top: 12px;
-  // }
-  
-  
-  // @media (max-width: 700px){
-    
-  //   .ul__list {
-  //     display: none; 
-  //   }
-  //   .burger-menu{
-  //     display: block;
-  //   }
-  // } 
-  
