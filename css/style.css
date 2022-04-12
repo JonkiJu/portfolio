@@ -776,7 +776,8 @@ a {
       grid-template-rows: 1fr 1fr;
   grid-column-gap: 16px;
   grid-row-gap: 16px;
-      grid-template-areas: "div1 div2 div3" "div1 div2 div4";
+      grid-template-areas: "div1 div2 div3"
+ "div1 div2 div4";
 }
 
 .designer__body .designer__photo .designer-photo__div img {
@@ -1628,13 +1629,9 @@ footer .end__footer {
   .services {
     margin-bottom: 100px;
   }
+  .faq__title h2 {
+    padding-bottom: 100px;
+  }
 }
 
-.line {
-  border-collapse: none;
-  font-size: 0;
-  content: '';
-  background-color: #000000;
-  height: 30px;
-  width: 100%;
-}
+
