@@ -1463,7 +1463,7 @@ footer .end__footer {
             align-items: flex-start;
   }
   .projects__header .projects__button {
-    padding-top: 30px;
+    margin-top: 30px;
   }
   .projects__header .projects__button:hover {
     -webkit-transform: scale(1) !important;
